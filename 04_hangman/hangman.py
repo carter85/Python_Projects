@@ -1,5 +1,7 @@
 # this was being done so bad and wasn't working, gave up and looked up better code
 
+# 23-11-30 Finished 'hangman_better.py' after failing with this one, this gives me angina
+
 from hangman_better import *
 
 # with 'enumerate', word[0] gives integer, word[1] gives value
